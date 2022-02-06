@@ -1,7 +1,7 @@
 # CPNT260
 ## Jibril Adem
 ### [Github Repo](https://github.com/jibril96/cpnt260-a4)
-### [Github Pages Site]()
+### [Github Pages Site](https://jibril96.github.io/cpnt260-a4/)
 
 # Reflection
 * I did not really struggle that much, i used my old assignments for guidance.
