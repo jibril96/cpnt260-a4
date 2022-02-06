@@ -1,6 +1,6 @@
 # CPNT260
 ## Jibril Adem
-### (Github Repo)[https://github.com/jibril96/cpnt260-a4]
+### [Github Repo] (https://github.com/jibril96/cpnt260-a4)
 ### (Github Pages Site)[]
 
 # Reflection
